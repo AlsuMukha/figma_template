@@ -3,6 +3,7 @@
 ## Навыки
 - HTML
 - SCSS
+- Flex, Grid
 - БЭМ
 - Pixel Perfect
 - Семантическая верстка 
